@@ -10,7 +10,7 @@
 
 ## c)
 
-pre-processor 
+pre-processor
 
 ## d)
 
