@@ -1,4 +1,4 @@
-# Solution Exercise 1.1
+# Solution Exercise 1.2
 
 ## a)
 
