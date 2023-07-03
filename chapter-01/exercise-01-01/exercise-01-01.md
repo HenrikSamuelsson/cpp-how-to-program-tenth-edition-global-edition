@@ -2,7 +2,7 @@
 
 ## a)
 
-Global  Positioning System (GPS)
+Global Positioning System (GPS)
 
 ## b)
 
