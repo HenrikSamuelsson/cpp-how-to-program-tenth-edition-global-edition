@@ -10,4 +10,4 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 
 ## Copyright Notice
 
-Some of the solutions include small quantity of material from the book. The amount is considered appropriate for educational non-commercial purposes and falls within the limits of fair use under U.S. copyright law (Section 107 of the U.S. Copyright Act).
+Some of the solutions include small quantity of material from the book. The amount is considered appropriate for educational non-commercial purposes to fall within the limits of fair use under U.S. copyright law (Section 107 of the U.S. Copyright Act).
