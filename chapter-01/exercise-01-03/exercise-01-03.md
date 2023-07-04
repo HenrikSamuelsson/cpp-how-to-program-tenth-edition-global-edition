@@ -1,6 +1,6 @@
 # Solution Exercise 1.3
 
-Exercise to fill in the blanks in sentences about the C++ environment. The filled in blanks are marked in *italicized* format in the below solutions. 
+Exercise to fill in the blanks in sentences about the C++ environment. The filled in blanks are marked in *italicized* format in the below solutions.
 
 ## a)
 
@@ -25,4 +25,3 @@ With *inheritance*, new classes of objects are derived by absorbing characterist
 ## f)
 
  The size, shape, color and weight of an object are considered *attributes* of the object's class.
- 
