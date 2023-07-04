@@ -6,7 +6,7 @@
 
 ## b)
 
- Microsoft Visual C++
+Microsoft Visual C++
 
 ## c)
 
