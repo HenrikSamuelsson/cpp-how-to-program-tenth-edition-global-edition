@@ -1,17 +1,17 @@
 # Solution Exercise 1.2
 
-## a)
+## a
 
 .cpp, .cxx, .cc, .C
 
-## b)
+## b
 
 Microsoft Visual C++
 
-## c)
+## c
 
 pre-processor
 
-## d)
+## d
 
 cerr
