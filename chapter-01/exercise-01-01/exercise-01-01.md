@@ -1,29 +1,29 @@
 # Solution Exercise 1.1
 
-## a)
+## a
 
 Global Positioning System (GPS)
 
-## b)
+## b
 
 Moore's law
 
-## c)
+## c
 
 database
 
-## d)
+## d
 
 machine language
 
-## e)
+## e
 
 compilers
 
-## f)
+## f
 
 Streaming music services
 
-## g)
+## g
 
 Computing costs

@@ -1,6 +1,6 @@
 # Solution Exercise 1.3
 
-Exercise to fill in the blanks in sentences about the C++ environment. The filled in blanks are marked in *italicized* format in the below solutions.
+Solution to exercise where blanks in sentences shall be filled in. The filled in blanks are indicated by the use of *italicized* format.
 
 ## a)
 
