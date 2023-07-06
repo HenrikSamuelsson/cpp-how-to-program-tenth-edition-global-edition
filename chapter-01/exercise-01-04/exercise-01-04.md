@@ -18,3 +18,8 @@ The smallest data item that a computer can hold is a *bit* which stands for *bin
 
 *Output unit* is a logical unit of the computer that sends information which has already been
 processed by the computer to various devices so that it may be used outside the computer.
+
+## e
+
+*Primary memory unit also known as random access memory (RAM)* is a logical unit of the computer that retains information but is volatile (data
+is typically lost when the power is switched off) whereas *secondary memory such as hard drives* provides a means of retaining large chunks of information relatively permanently.
