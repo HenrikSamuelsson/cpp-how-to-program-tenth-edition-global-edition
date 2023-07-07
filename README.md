@@ -6,7 +6,13 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 
 [1.1](chapter-01/exercise-01-01/exercise-01-01.md),
 [1.2](chapter-01/exercise-01-02/exercise-01-02.md),
-[1.3](chapter-01/exercise-01-03/exercise-01-03.md)
+[1.3](chapter-01/exercise-01-03/exercise-01-03.md),
+[1.4](chapter-01/exercise-01-04/exercise-01-04.md)
+
+## Chapter 2
+
+[2.1](chapter-02/exercise-02-01/exercise-02-01.md),
+[2.2](chapter-02/exercise-02-02/exercise-02-02.md)
 
 ## Copyright Notice
 
