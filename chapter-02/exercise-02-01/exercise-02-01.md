@@ -8,4 +8,8 @@ Every C++ program begins execution at the function *main*.
 
 ## b)
 
+Lines that begin with *#* are processed by the preprocessor before the program is *compiled*.
+
 ## c)
+
+*//* indicates that the remainder of each line is a comment.
