@@ -21,5 +21,8 @@ processed by the computer to various devices so that it may be used outside the 
 
 ## e
 
-*Primary memory unit also known as random access memory (RAM)* is a logical unit of the computer that retains information but is volatile (data
-is typically lost when the power is switched off) whereas *secondary memory such as hard drives* provides a means of retaining large chunks of information relatively permanently.
+*The primary memory unit, also known as random access memory (RAM),* is a logical unit of the computer that retains information but is volatile (data is typically lost when the power is switched off) whereas *secondary memory, such as hard drives,* provides a means of retaining large chunks of information relatively permanently.
+
+## f
+
+*The arithmetic logical unit (ALU)* is a logical unit of the computer that performs calculations and makes logical decisions.
