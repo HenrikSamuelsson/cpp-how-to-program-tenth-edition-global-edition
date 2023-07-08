@@ -20,11 +20,11 @@ A watch can be described in conceptual way without having an actual watch availa
 
 ## Inheritance
 
-A basic watch might sit up on the wall and only be able to show the time. This forms a base type of watches. This is use ful but it will not wake us up in the morning, for this we need an alarm functionality. A clock with alarm will still also still have the ability to show the time. We can phrase and think of this that the more special alarm clock inherits behaviour from the more basic traits that all clock share.
+A basic watch might sit up on the wall and only be able to show the time. This forms a base type for watches. This basic type is useful but it will not wake us up in the morning, for this we need to add alarm functionality. A clock with alarm will still also still have the ability to show the time. We can phrase and think of this as that the more special alarm clock inherits behaviour from the more basic traits that all clock share.
 
 ## Modeling Messages
 
-Objects will frequently need to take input, we can think of this as delivering a message to the object. In the case of watch so would one message be to send the current time to the watch if the watch for some reason does not show the correct time any more.
+Objects will frequently need to take input, we can think of this as delivering a message to the object. In the case of watch so would one message be to send the current time to the watch. If the watch for some reason does not show the correct time any more we send the message and the content of the message is used to set the time of the clock. In reality the user interface in form of buttons or the so called crown on the side of a wrist watch.
 
 ## Encapsulation
 
