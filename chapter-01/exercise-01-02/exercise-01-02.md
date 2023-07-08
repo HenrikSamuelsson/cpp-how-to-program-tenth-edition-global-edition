@@ -1,17 +1,19 @@
 # Solution Exercise 1.2
 
-## a
+Solution to exercise where blanks in sentences shall be filled in. The filled in blanks are indicated by the use of *italicized* format.
 
-.cpp, .cxx, .cc, .C
+## a)
 
-## b
+C++ source code filenames often end with the *.cpp*, *.cxx*, *.cc*, or *.C* extensions.
 
-Microsoft Visual C++
+## b)
 
-## c
+C++ offers software packages for Microsoft Windows such as *Microsoft Visual C++*.
 
-pre-processor
+## c)
 
-## d
+In a C++ system, a /*preprocessor*/ program executes automatically before the compiler’s translation phase begins.
 
-cerr
+## d)
+
+There is also a standard error stream referred to as *cerr*.
