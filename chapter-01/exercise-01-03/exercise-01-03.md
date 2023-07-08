@@ -24,4 +24,4 @@ With *inheritance*, new classes of objects are derived by absorbing characterist
 
 ## f)
 
- The size, shape, color and weight of an object are considered *attributes* of the object's class.
+The size, shape, color and weight of an object are considered *attributes* of the object's class.
