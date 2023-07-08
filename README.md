@@ -7,7 +7,10 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [1.1](chapter-01/exercise-01-01/exercise-01-01.md),
 [1.2](chapter-01/exercise-01-02/exercise-01-02.md),
 [1.3](chapter-01/exercise-01-03/exercise-01-03.md),
-[1.4](chapter-01/exercise-01-04/exercise-01-04.md)
+[1.4](chapter-01/exercise-01-04/exercise-01-04.md),
+[1.5](chapter-01/exercise-01-05/exercise-01-05.md),
+[1.6](chapter-01/exercise-01-06/exercise-01-06.md),
+[1.7](chapter-01/exercise-01-07/exercise-01-07.md),
 
 ## Chapter 2
 
