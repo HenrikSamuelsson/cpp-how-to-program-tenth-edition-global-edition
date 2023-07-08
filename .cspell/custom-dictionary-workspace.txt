@@ -1,5 +1,8 @@
 # Custom Dictionary Words
+Carbonfootprint
 cerr
 Deitel
+justenergy
 Modeling
 OOAD
+Terrapass
