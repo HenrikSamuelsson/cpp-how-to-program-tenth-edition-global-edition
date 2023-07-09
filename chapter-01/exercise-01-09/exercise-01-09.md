@@ -22,4 +22,3 @@ A selection of BMI categories can be found at [Wikipedia](https://en.wikipedia.o
 |Obese (Class III)|≥ 40.0|
 
 The categorization is a bit off because for example BMI of 16.95 does not fit any of the categories, the specification needs to be improved before being able to implement in code.
- 
