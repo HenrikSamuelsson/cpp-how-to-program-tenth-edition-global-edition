@@ -2,7 +2,7 @@
 
 Exercise to test drive carbon foot print calculators and research formulas for calculating carbon footprints.
 
-Tested a carbon foot print calculator at [Terrapass](https://terrapass.co.uk/carbon-footprint-calculator). Did not work that great since I personally do not have any vehicle besides a bicycle and there was no option skip choosing a car.
+Tested a carbon foot print calculator at [Terra@pass](https://terrapass.co.uk/carbon-footprint-calculator). Did not work that great since I personally do not have any vehicle besides a bicycle and there was no option skip choosing a car.
 
 Tested a carbon foot print calculator at [Carbonfootprint](https://terrapass.co.uk/carbon-footprint-calculator). Worked better but results seems strange because apparently I have double the carbon footprint compared to the average person in my country. And I live in a very small apartment, owns no car, and do minimal amount of travel. Probably do more shopping than the average person so this will increase my foot print.
 
