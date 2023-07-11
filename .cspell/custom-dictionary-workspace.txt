@@ -1,6 +1,7 @@
 # Custom Dictionary Words
 Carbonfootprint
 cerr
+cout
 Deitel
 justenergy
 Modeling
