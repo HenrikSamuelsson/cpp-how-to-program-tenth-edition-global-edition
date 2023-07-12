@@ -21,7 +21,9 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 ## Chapter 2
 
 [2.1](chapter-02/exercise-02-01/exercise-02-01.md),
-[2.2](chapter-02/exercise-02-02/exercise-02-02.md)
+[2.2](chapter-02/exercise-02-02/exercise-02-02.md),
+[2.3](chapter-02/exercise-02-03/exercise-02-03.md),
+[2.4](chapter-02/exercise-02-04/exercise-02-04.md),
 
 ## Copyright Notice
 
