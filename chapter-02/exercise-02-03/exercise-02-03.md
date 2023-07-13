@@ -66,6 +66,12 @@ std::cout << "This"    << "\n"
           << "program" << "\n";
 ```
 
+Or alternatively this more compact but less readable version:
+
+```cpp
+std::cout << "This\nis\na\nC++\nprogram\n";
+```
+
 ## h)
 
 Code that prints a message with each word separated by a tab:
@@ -75,5 +81,11 @@ std::cout << "This"    << "\t"
           << "is"      << "\t"
           << "a"       << "\t"
           << "C++"     << "\t"
-          << "program" << "\t";
+          << "program" << "\n";
+```
+
+Or alternatively this more compact but less readable version:
+
+```cpp
+std::cout << "This\tis\ta\tC++\tprogram\n";
 ```
