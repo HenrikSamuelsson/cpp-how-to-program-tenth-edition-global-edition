@@ -2,7 +2,7 @@
 
 My personal solutions to exercises from the book C++ How to Program - Tenth Edition - Global Edition, written by Paul Deitel and Harvey Deitel.
 
-## Chapter 1
+## Chapter 1 Introduction to Computers and C++
 
 [1.1](chapter-01/exercise-01-01/exercise-01-01.md),
 [1.2](chapter-01/exercise-01-02/exercise-01-02.md),
@@ -18,7 +18,7 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [1.12](chapter-01/exercise-01-12/exercise-01-12.md),
 [1.13](chapter-01/exercise-01-13/exercise-01-13.md)
 
-## Chapter 2
+## Chapter 2  Introduction to C++ Programming, Input/Output and Operators
 
 [2.1](chapter-02/exercise-02-01/exercise-02-01.md),
 [2.2](chapter-02/exercise-02-02/exercise-02-02.md),
@@ -26,11 +26,11 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [2.4](chapter-02/exercise-02-04/exercise-02-04.md),
 [2.5](chapter-02/exercise-02-05/exercise-02-05.md)
 
-## Chapter 3
+## Chapter 3  Introduction to Classes, Objects, Member Functions and Strings
 
 [3.1 Fill in the blanks](chapter-03/exercise-03-01/exercise-03-01.md)  
 
-## Chapter 4
+## Chapter 4  Algorithm Development and Control Statements: Part 1
 
 [4.1 Fill in the blanks](chapter-04/exercise-04-01/exercise-04-01.md)  
 [4.2 Subtract one](chapter-04/exercise-04-02/exercise-04-02.md)  
