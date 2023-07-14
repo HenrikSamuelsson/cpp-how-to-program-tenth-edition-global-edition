@@ -26,6 +26,11 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [2.4](chapter-02/exercise-02-04/exercise-02-04.md),
 [2.5](chapter-02/exercise-02-05/exercise-02-05.md)
 
+## Chapter 4
+
+[4.1 Fill in the blanks](chapter-04/exercise-04-01/exercise-04-01.md)  
+[4.2 Subtract one](chapter-04/exercise-04-02/exercise-04-02.md)  
+
 ## Copyright Notice
 
 Some of the solutions include small quantity of material from the book. The amount is considered appropriate for educational non-commercial purposes to fall within the limits of fair use under U.S. copyright law (Section 107 of the U.S. Copyright Act).
