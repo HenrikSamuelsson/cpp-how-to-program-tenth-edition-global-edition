@@ -1,6 +1,6 @@
 # Solution Exercise 4.1
 
-Solution to exercise where blanks in sentences shall be filled in. The filled in blanks are indicated by the use of *italicized* or `code` format.
+Solution to exercise where blanks in sentences shall be filled in. The filled in blanks are indicated by the use of either *italicized* format or `code` format.
 
 ## a)
 
