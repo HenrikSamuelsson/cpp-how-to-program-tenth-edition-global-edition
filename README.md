@@ -26,6 +26,10 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [2.4](chapter-02/exercise-02-04/exercise-02-04.md),
 [2.5](chapter-02/exercise-02-05/exercise-02-05.md)
 
+## Chapter 3
+
+[3.1 Fill in the blanks](chapter-03/exercise-03-01/exercise-03-01.md)  
+
 ## Chapter 4
 
 [4.1 Fill in the blanks](chapter-04/exercise-04-01/exercise-04-01.md)  
