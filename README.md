@@ -28,12 +28,12 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 
 ## Chapter 3  Introduction to Classes, Objects, Member Functions and Strings
 
-[3.1 Fill in the blanks](chapter-03/exercise-03-01/exercise-03-01.md)  
+[3.1 Fill in the Blanks](chapter-03/exercise-03-01/exercise-03-01.md)  
 
 ## Chapter 4  Algorithm Development and Control Statements: Part 1
 
-[4.1 Fill in the blanks](chapter-04/exercise-04-01/exercise-04-01.md)  
-[4.2 Subtract one](chapter-04/exercise-04-02/exercise-04-02.md)  
+[4.1 Fill in the Blanks](chapter-04/exercise-04-01/exercise-04-01.md)  
+[4.2 Subtract One](chapter-04/exercise-04-02/exercise-04-02.md)  
 
 ## Copyright Notice
 
