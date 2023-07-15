@@ -18,7 +18,7 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [1.12](chapter-01/exercise-01-12/exercise-01-12.md),
 [1.13](chapter-01/exercise-01-13/exercise-01-13.md)
 
-## Chapter 2  Introduction to C++ Programming, Input/Output and Operators
+## Chapter 2 Introduction to C++ Programming, Input/Output and Operators
 
 [2.1](chapter-02/exercise-02-01/exercise-02-01.md),
 [2.2](chapter-02/exercise-02-02/exercise-02-02.md),
@@ -26,15 +26,19 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 [2.4](chapter-02/exercise-02-04/exercise-02-04.md),
 [2.5](chapter-02/exercise-02-05/exercise-02-05.md)
 
-## Chapter 3  Introduction to Classes, Objects, Member Functions and Strings
+## Chapter 3 Introduction to Classes, Objects, Member Functions and Strings
 
 [3.1 Fill in the Blanks](chapter-03/exercise-03-01/exercise-03-01.md)  
 [3.2 True or False](chapter-03/exercise-03-02/exercise-03-02.md)  
 
-## Chapter 4  Algorithm Development and Control Statements: Part 1
+## Chapter 4 Algorithm Development and Control Statements: Part 1
 
 [4.1 Fill in the Blanks](chapter-04/exercise-04-01/exercise-04-01.md)  
 [4.2 Subtract One](chapter-04/exercise-04-02/exercise-04-02.md)  
+
+## Chapter 5 Control Statements: Part 2; Logical Operators
+
+[5.1 Fill in the Blanks](chapter-05/exercise-05-01/exercise-05-01.md)
 
 ## Copyright Notice
 
