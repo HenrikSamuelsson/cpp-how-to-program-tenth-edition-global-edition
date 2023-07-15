@@ -40,6 +40,7 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 
 [5.1 Fill in the Blanks](chapter-05/exercise-05-01/exercise-05-01.md)  
 [5.2 True or False](chapter-05/exercise-05-02/exercise-05-02.md)  
+[5.5 Elements of Counter-Controlled Iteration](chapter-05/exercise-05-05/exercise-05-05.md)  
 
 ## Copyright Notice
 
