@@ -38,7 +38,8 @@ My personal solutions to exercises from the book C++ How to Program - Tenth Edit
 
 ## Chapter 5 Control Statements: Part 2; Logical Operators
 
-[5.1 Fill in the Blanks](chapter-05/exercise-05-01/exercise-05-01.md)
+[5.1 Fill in the Blanks](chapter-05/exercise-05-01/exercise-05-01.md)  
+[5.2 True or False](chapter-05/exercise-05-02/exercise-05-02.md)  
 
 ## Copyright Notice
 
