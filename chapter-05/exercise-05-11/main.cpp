@@ -7,10 +7,8 @@
 // have entered the specified number of integer values.
 ////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
-#include <limits>
 
-int main()
-{
+int main() {
     int numberOfValues = 0;
     std::cin >> numberOfValues;
 
@@ -28,4 +26,6 @@ int main()
     }
 
     std::cout << smallestValue << "\n";
+
+    return 0;
 }
